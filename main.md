@@ -1,2 +1,0 @@
-# CoHA
-Community Health Awareness
